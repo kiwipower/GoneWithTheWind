@@ -44,12 +44,6 @@ I need to be able to lend books to visitors
 
 ```text
 As a librarian,
-So that I can update my stock levels,
-I need to be able update the library when a book is returned 
-```
-
-```text
-As a librarian,
 So that I can protect my expensive books,
 I don't want to lend reference books
 ```
@@ -63,6 +57,12 @@ I need to know whether a book is available or on loan
 ---
 
 ##### Optional extra stories
+
+```text
+As a librarian,
+So that I can update my stock levels,
+I need to be able update the library when a book is returned 
+```
 
 ```text
 As a librarian,
